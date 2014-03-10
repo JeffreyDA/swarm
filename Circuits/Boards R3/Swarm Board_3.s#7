@@ -2068,17 +2068,6 @@ Manufacturer Part Number:</description>
 <wire x1="307.34" y1="-132.08" x2="304.8" y2="-129.54" width="0.1524" layer="97"/>
 <wire x1="307.34" y1="-132.08" x2="304.8" y2="-134.62" width="0.1524" layer="97"/>
 <text x="-88.9" y="-137.16" size="1.778" layer="97">PICK NEW 8MHX XTAL</text>
-<circle x="-132.08" y="20.32" radius="5.08" width="0.1524" layer="94"/>
-<circle x="200.66" y="-40.64" radius="5.08" width="0.1524" layer="94"/>
-<circle x="205.74" y="63.5" radius="5.08" width="0.1524" layer="94"/>
-<circle x="452.12" y="-195.58" radius="5.08" width="0.1524" layer="94"/>
-<circle x="-66.04" y="78.74" radius="7.184203125" width="0.1524" layer="94"/>
-<circle x="266.7" y="-2.54" radius="5.6796125" width="0.1524" layer="94"/>
-<circle x="88.9" y="-71.12" radius="5.08" width="0.1524" layer="94"/>
-<circle x="88.9" y="-109.22" radius="5.08" width="0.1524" layer="94"/>
-<circle x="91.44" y="-147.32" radius="5.6796125" width="0.1524" layer="94"/>
-<circle x="-132.08" y="-76.2" radius="5.6796125" width="0.1524" layer="94"/>
-<circle x="347.98" y="104.14" radius="5.6796125" width="0.1524" layer="94"/>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="0" y="0"/>
